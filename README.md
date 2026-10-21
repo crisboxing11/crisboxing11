@@ -1,9 +1,8 @@
-- 👋 Hi, I’m cristian
-- 👀 I’m interested in learning anything there is about coding, playing musical instruments, and hiking.
-- I’m looking to collaborate on any open source project that I can make an impact in. 
-- 📫 How to reach me linkedin.com/in/cristianarroyocolon and arroyocolondev@gmail.com
+## Cristian Arroyo Colon
+Staff Software Engineer · Full-Stack & Machine Learning · Las Vegas, NV
 
-<!---
-crisboxing11/crisboxing11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build production ML and full-stack systems: real-time inference pipelines, LLM applications (RAG, agents), and React/TypeScript front ends on AWS and Kubernetes.
+
+**Stack:** Python · TypeScript · React · FastAPI · PyTorch · LangChain · AWS · Docker · Kubernetes · Terraform
+
+📫 [LinkedIn](https://www.linkedin.com/in/cristianarroyocolon) · arroyocolondev@gmail.com
